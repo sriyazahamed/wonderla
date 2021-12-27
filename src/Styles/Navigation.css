@@ -1,0 +1,50 @@
+.navigation{
+    background-color:  rgb(169 173 209);
+}
+.logo{
+    height: 65px;
+}
+
+.contact{
+    width: max-content;
+}
+
+.ticket{
+    width:max-content;
+}
+
+@media screen and (min-width:991px) {
+    .contact{
+        position: absolute;
+        right: 110px;
+        width: max-content;
+    }
+}
+
+@media screen and (max-width:991px){
+    .contact{
+        margin-top: 15px;
+    }
+}
+
+.bottom{
+    height: 17px;
+    background-color: #0c0f2a;
+}
+
+.wholeNav{
+    position: sticky;
+    top: 0px;
+    z-index: 1000; 
+}
+
+.ReactModal__Overlay--after-open{
+    z-index: 100000;
+}
+
+.mod-title{
+    font-weight: 500;
+    font-style: oblique;
+    font-family: inherit;
+    color: black;
+}

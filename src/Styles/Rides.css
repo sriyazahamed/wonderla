@@ -1,0 +1,24 @@
+.ride{
+    background-color: #e3eaeb;
+    font-size: small;
+    font-family: cursive;
+    margin: 0!important;
+    font-weight: 300;
+    line-height: 25.2px;
+    color: #272727;
+}
+
+.rideName{
+    color: #29338d;
+    font-weight: 400;
+    text-transform: none;
+    font-size: 1.2em;
+    font-style: normal;
+    text-align: left;
+    font-family: fantasy
+}
+.head{
+   
+    background-color:#29338d;
+    font-size: x-large;
+}
