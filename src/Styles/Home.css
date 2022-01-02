@@ -1,7 +1,6 @@
 
 
 .homeWidgets{
-    font-size: smaller;
     font-family: sans-serif;
     line-height: 32px;
     background-color: #f2f2f2;
@@ -9,5 +8,5 @@
 
 .WidgetHead{
     font-family: fantasy;
-    font-size: x-large;
+    font-size: xx-large;
 }
