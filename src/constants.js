@@ -1,4 +1,4 @@
-const DEVELOPMENT_URL="http://localhost:3333";
+const DEVELOPMENT_URL="http://localhost:4444";
 const PRODUCTION_URL="https://wonderla-backend.herokuapp.com";
 
-exports.API_URL=PRODUCTION_URL;
+exports.API_URL=DEVELOPMENT_URL;
